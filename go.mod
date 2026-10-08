@@ -1,1 +1,1 @@
-module hello
+module github.com/mzsjjwc/hello
